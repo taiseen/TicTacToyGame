@@ -1,0 +1,14 @@
+/* 
+    Created on : 13-Dec-2017, 14:01:54
+    Author     : zoo
+*/
+
+.button {
+    -fx-pref-width : 100px ;
+    -fx-pref-height : 100px ;
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-font-size: 40px;
+    -fx-font-weight: bold
+}
+
